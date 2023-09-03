@@ -1,4 +1,4 @@
-# Why i start to learn C?
+# Why i'm start to learn C?
 
 In order to increase my repertoire as a programmer and improve my skills, since, as someone who only developed WEB projects, I never had a solid foundation as a programmer in general
 
