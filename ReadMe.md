@@ -15,3 +15,6 @@ https://www.learnvern.com/c-programming-tutorial-in-tamil
 
 ### FireCodeCamp (English video):
 https://www.youtube.com/watch?v=KJgsSFOSQv0
+
+### C Programming Full Course for free 🕹️:
+https://www.youtube.com/watch?v=87SH2Cn0s9A
