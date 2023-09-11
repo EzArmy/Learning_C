@@ -10,10 +10,10 @@ https://roadmap.sh/computer-science
 ### ProgamIz:
 https://www.programiz.com/c-programming
 
-### LearnVern (English video):
+### C Language Basic to Advance Course in Tamil:
 https://www.learnvern.com/c-programming-tutorial-in-tamil
 
-### FireCodeCamp (English video):
+### C Programming Tutorial for Beginners:
 https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 ### C Programming Full Course for free 🕹️:
